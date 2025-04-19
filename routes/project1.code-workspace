@@ -1,0 +1,40 @@
+{
+  "folders": [
+	{
+		"name": "project1",
+		"path": "../../project1"
+	},
+	{
+		"name": "Sapientia-Website_Sell_Books",
+		"path": "../../Sapientia-Website_Sell_Books"
+	},
+	{
+		"name": "ASM 2",
+		"path": "../../ASM 2"
+	},
+	{
+		"name": "admin",
+		"path": "../../../../admin"
+	},
+	{
+		"name": "DA1-dev",
+		"path": "../../DA1-dev"
+	},
+	{
+		"name": "php_thayduclucifer",
+		"path": "../../php_thayduclucifer"
+	},
+	{
+		"path": "../../asignment12"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../thiasm2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "admin"
+  }
+}
